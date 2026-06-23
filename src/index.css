@@ -1,1 +1,14 @@
 @import "tailwindcss";
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 50px;
+}
+section {
+  min-height: 100vh; 
+  
+  
+  justify-content: center; 
+  
+  padding-bottom: 5rem; 
+  box-sizing: border-box;
+}
