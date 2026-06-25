@@ -3,7 +3,7 @@ import { FaGlobe, FaGithub } from "react-icons/fa";
 function Projects() {
   const projects = [
     {
-      title: "News App",
+      title: "Background-changer",
       image:
         "https://pin.it/2Vlx0NIke",
       tech: "React, Tailwind CSS, JavaScript",
