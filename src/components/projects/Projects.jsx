@@ -5,9 +5,9 @@ function Projects() {
     {
       title: "News App",
       image:
-        "https://images.unsplash.com/photo-1495020689067-958852a7765?q=80&w=1200&auto=format&fit=crop",
-      tech: "React, Tailwind CSS, News API",
-      desc: "Responsive news application with category filtering and API integration.",
+        "https://pin.it/2Vlx0NIke",
+      tech: "React, Tailwind CSS, JavaScript",
+      desc: "Responsive background changer with changes colour with single click.",
       live: "https://bg-changerreactvite.netlify.app/",
       github: "https://github.com/PavanSanjayPawar/background-changer",
     },
