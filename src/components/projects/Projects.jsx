@@ -2,16 +2,25 @@ import { FaGlobe, FaGithub } from "react-icons/fa";
 
 function Projects() {
   const projects = [
-    {
-      title: "Background-changer",
-      image:
-        "https://pin.it/2Vlx0NIke",
-      tech: "React, Tailwind CSS, JavaScript",
-      desc: "Responsive background changer with changes colour with single click.",
-      live: "https://bg-changerreactvite.netlify.app/",
-      github: "https://github.com/PavanSanjayPawar/background-changer",
-    },
-  ];
+  {
+    title: "Currency Converter",
+    image:
+      "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?q=80&w=1200&auto=format&fit=crop",
+    tech: "React, Tailwind CSS, Currency API",
+    desc: "A responsive currency converter that provides real-time exchange rates between different currencies.",
+    live: "https://currencyconverterbypavan.netlify.app/",
+    github: "https://github.com/PavanSanjayPawar/currency-converter",
+  },
+  {
+    title: "Background Changer",
+    image:
+      "https://images.unsplash.com/photo-1557683316-973673baf926?q=80&w=1200&auto=format&fit=crop",
+    tech: "React, Tailwind CSS, Vite",
+    desc: "A simple background color changer that allows users to switch colors instantly using interactive buttons.",
+    live: "https://bg-changerreactvite.netlify.app/",
+    github: "https://github.com/PavanSanjayPawar/background-changer",
+  },
+];
 
   return (
     <section id="Projects" className="min-h-screen px-6 py-10">
